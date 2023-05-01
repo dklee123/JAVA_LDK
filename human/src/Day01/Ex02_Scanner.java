@@ -41,5 +41,4 @@ public class Ex02_Scanner {
 		
 		
 	}
-
 }
